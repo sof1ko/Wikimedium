@@ -1,0 +1,30 @@
+.social-likes__widget_single {
+    margin: 0;
+}
+
+.social-likes__widget {
+    margin: 6px;
+    color: #000;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    line-height: 19px;
+}
+
+.social-likes__widget {
+    margin: 6px;
+    color: #000;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    line-height: 19px;
+}
+
+.social-likes, .social-likes__widget {
+    display: inline-block;
+    padding: 0;
+    vertical-align: middle!important;
+    word-spacing: 0!important;
+    text-indent: 0!important;
+    list-style: none!important;
+}

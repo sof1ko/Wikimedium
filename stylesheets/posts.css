@@ -1,0 +1,48 @@
+.posts {
+  background-color: #fafafa;
+}
+
+.postsFeed {
+  padding-top: 40px;
+}
+
+.postsFeed header {
+  height: 50px;
+  font-size: 14px;
+  line-height: 50px;
+  color: rgba(0,0,0,.4);
+}
+
+.postsFeed a {
+  display: block;
+  width: 740px;
+  margin: 10px auto;
+  padding: 0 20px 20px 20px;
+  background-color: white;
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+  border-radius: 5px;
+}
+
+.postsFeed figure {
+  margin-bottom: 31px;
+  width: 700px;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+
+.postsFeed h2 {
+  margin-top: 9px;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 34px;
+  color: rgba(0,0,0,.8);
+}
+
+.postsFeed p {
+  margin: 7px 0 10px;
+  font-size: 22px;
+  line-height: 32px;
+  color: rgba(0,0,0,.4);
+}
